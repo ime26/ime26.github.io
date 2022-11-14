@@ -5,14 +5,13 @@
 
 body{
     box-sizing: border-box;
-    /* padding: 0 5%; */
+ 
 }
 
 nav{
     background-color: #000;
     padding: 20px;
-    /* padding: 0; */
-    /* margin: 0; */
+    
 }
 nav ul{
     display: flex;
@@ -65,6 +64,7 @@ nav ul li a:active{
     font-family: "Lora", sans-serif ;
     margin-bottom: 15px;
     margin-top: 2%;
+    color: rgb(248, 112, 191);
 }
 .hero h3{
     line-height: 2rem;
